@@ -27,22 +27,38 @@ A ScreenShot of the app running
 ![cool-tech_screenshots/Screenshot(1).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(1).png)
 
 A ScreenShot of how to search for a user
-![GithubProject-ScreenShots/Screenshot(2).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(2).png)
+![cool-tech_screenshots/Screenshot(2).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(2).png)
 
 A ScreenShot of the results that have been found
-![GithubProject-ScreenShots/Screenshot(3).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(3).png)
+![cool-tech_screenshots/Screenshot(3).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(3).png)
 
 A ScreenShot of a user being selected and their bio being displayed
-![GithubProject-ScreenShots/Screenshot(4).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(4).png)
+![cool-tech_screenshots/Screenshot(4).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(4).png)
 
 A ScreenShot of how the repo buttons work
-![GithubProject-ScreenShots/Screenshot(5).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(5).png)
+![cool-tech_screenshots/Screenshot(5).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(5).png)
 
 A ScreenShot of the repo information being displayed when selected
-![GithubProject-ScreenShots/Screenshot(6).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(6).png)
+![cool-tech_screenshots/Screenshot(6).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(6).png)
 
 A Screenshot of how the back to bio button works
-![GithubProject-ScreenShots/Screenshot(7).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(7).png)
+![cool-tech_screenshots/Screenshot(7).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(7).png)
+
+![cool-tech_screenshots/Screenshot(8).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(8).png)
+
+![cool-tech_screenshots/Screenshot(9).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(9).png)
+
+![cool-tech_screenshots/Screenshot(10).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(10).png)
+
+![cool-tech_screenshots/Screenshot(11).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(11).png)
+
+![cool-tech_screenshots/Screenshot(12).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(12).png)
+
+![cool-tech_screenshots/Screenshot(13).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(13).png)
+
+![cool-tech_screenshots/Screenshot(14).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(14).png)
+
+![cool-tech_screenshots/Screenshot(15).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(15).png)
 
 ### Credit
 * [Matthew-James Pether](https://www.linkedin.com/in/m-j-pether-150793301)
