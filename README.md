@@ -24,7 +24,7 @@ I developed a website that uses Express to design a backend server that handles 
 
 ### Usage
 A ScreenShot of the app running
-![cool-tech_screenshots/Screenshot(1).png](https://github.com/Matthew-JamesPether/Cool-Tech/tree/main/cool-tech/cool-tech_screenshots/Screenshot(1).png)
+![cool-tech_screenshots/Screenshot(1).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(1).png)
 
 A ScreenShot of how to search for a user
 ![GithubProject-ScreenShots/Screenshot(2).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(2).png)
