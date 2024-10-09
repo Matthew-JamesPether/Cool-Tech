@@ -21,6 +21,7 @@ I developed a website that uses Express to design a backend server that handles 
 1. Open a new terminal and direct yourself to 'cool-tech' and cd to 'react-cool-tech'
 1. Type 'npm install' to download the node_modules folder for the react app
 1. Type 'npm start' to start the frontend app
+1. You can use this admin user: Username: Nick password: nick123
 
 ### Usage
 A ScreenShot of the app running and login page
