@@ -23,41 +23,49 @@ I developed a website that uses Express to design a backend server that handles 
 1. Type 'npm start' to start the frontend app
 
 ### Usage
-A ScreenShot of the app running
+A ScreenShot of the app running and login page
 ![cool-tech_screenshots/Screenshot(1).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(1).png)
 
-A ScreenShot of how to search for a user
+A ScreenShot of the register page
 ![cool-tech_screenshots/Screenshot(2).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(2).png)
 
-A ScreenShot of the results that have been found
+A ScreenShot of an admin signing in 
 ![cool-tech_screenshots/Screenshot(3).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(3).png)
 
-A ScreenShot of a user being selected and their bio being displayed
+A ScreenShot of an admin who is only part of one Organizational Unit and one division
 ![cool-tech_screenshots/Screenshot(4).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(4).png)
 
-A ScreenShot of how the repo buttons work
+A ScreenShot of the admin page
 ![cool-tech_screenshots/Screenshot(5).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(5).png)
 
-A ScreenShot of the repo information being displayed when selected
+A ScreenShot of a admin updating page
 ![cool-tech_screenshots/Screenshot(6).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(6).png)
 
-A Screenshot of how the back to bio button works
+A ScreenShot of an admin updating a user
 ![cool-tech_screenshots/Screenshot(7).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(7).png)
 
+A ScreenShot of the admin adding more credentials
 ![cool-tech_screenshots/Screenshot(8).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(8).png)
 
+A ScreenShot of the admin updating credentials
 ![cool-tech_screenshots/Screenshot(9).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(9).png)
 
+A ScreenShot of a user loggin out
 ![cool-tech_screenshots/Screenshot(10).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(10).png)
 
+A ScreenShot of an admin with multiple Organizational Units and divisions
 ![cool-tech_screenshots/Screenshot(11).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(11).png)
 
+A ScreenShot of how to select a Organizational Unit and division
 ![cool-tech_screenshots/Screenshot(12).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(12).png)
 
+A ScreenShot of how the credentials are displayed
 ![cool-tech_screenshots/Screenshot(13).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(13).png)
 
+A ScreenShot of a user with the role of management
 ![cool-tech_screenshots/Screenshot(14).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(14).png)
 
+A ScreenShot of a user with the role of normal
 ![cool-tech_screenshots/Screenshot(15).png](https://github.com/Matthew-JamesPether/Cool-Tech/blob/main/cool-tech/cool-tech_screenshots/Screenshot%20(15).png)
 
 ### Credit
