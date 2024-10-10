@@ -1,0 +1,36 @@
+/* Styles the admin-container */
+.admin-container {
+  border: solid;
+  border-radius: 10px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  grid-area: 2 / 1 / 3 / 3;
+  padding: 15px;
+}
+
+/* Styles the user-container */
+.user-admin-container {
+  border-bottom: solid;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+/* Styles the span tags */
+.user-admin-container span {
+  font-weight: normal;
+}
+
+/* Styles the update-admin-form select */
+.update-admin-form select {
+  margin: 7px;
+}
+
+/* Styles the update-user-heading */
+.update-user-heading {
+  display: flex;
+}
+
+/* Styles the admin-back.btn.btn-primary */
+.admin-back.btn.btn-primary {
+  margin-left: 50px;
+}

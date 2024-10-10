@@ -1,0 +1,24 @@
+/* Styles the login-form */
+.entry-container {
+  text-align: center;
+}
+
+/* Styles the labels*/
+.entry-container label {
+  font-weight: bold;
+}
+
+/* Styles the input tags for login-form */
+.login-form input {
+  margin: 20px;
+}
+
+/* Styles the input tags for register-form */
+.register-form input {
+  margin: 10px;
+}
+
+/* Styles the buttons */
+.entry-container button {
+  margin: 7px;
+}
