@@ -22,6 +22,7 @@ const App = () => {
     sessionStorage.getItem("isLoggedIn") !== null
   );
 
+  // Checks if use has logged in when page rerenders
   useEffect(() => {
     if (isLoggedIn) sessionStorage.setItem("isLoggedIn", true);
   }, [isLoggedIn]);
